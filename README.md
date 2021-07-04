@@ -1,2 +1,2 @@
 # Deepin---JailBreak
-Script and study research on deepin that removes any bogus feature on Deepin
+Script that removes bogus configurations from deepin
