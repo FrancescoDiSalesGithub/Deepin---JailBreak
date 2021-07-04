@@ -1,6 +1,6 @@
 isRoot='id -u'
 
-if [ isRoot !=0 ]
+if [ $isRoot !=0 ]
 then
   echo "run this script as root"
 else
